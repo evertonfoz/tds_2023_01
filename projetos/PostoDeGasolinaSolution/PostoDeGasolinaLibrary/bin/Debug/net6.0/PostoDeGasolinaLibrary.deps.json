@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PostoDeGasolinaLibrary/1.0.0": {
+        "runtime": {
+          "PostoDeGasolinaLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostoDeGasolinaLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

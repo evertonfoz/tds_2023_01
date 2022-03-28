@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EstabelecimentoDataSources">
+      <HintPath>..\Datasources\bin\Debug\net6.0\EstabelecimentoDataSources.dll</HintPath>
+    </Reference>
+    <Reference Include="EstabelecimentoDomainRepositories">
+      <HintPath>..\..\Domain\Repositories\bin\Debug\net6.0\EstabelecimentoDomainRepositories.dll</HintPath>
+    </Reference>
+    <Reference Include="EstabelecimentoModels">
+      <HintPath>..\..\Data\Models\bin\Debug\net6.0\EstabelecimentoModels.dll</HintPath>
+    </Reference>
+    <Reference Include="MicroservicosCore">
+      <HintPath>..\..\..\..\Core\bin\Debug\net6.0\MicroservicosCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

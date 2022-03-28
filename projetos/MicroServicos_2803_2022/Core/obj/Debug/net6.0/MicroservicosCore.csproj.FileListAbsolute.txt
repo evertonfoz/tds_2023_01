@@ -1,0 +1,12 @@
+C:\Temp\MicroServicos_2803_2022\Core\bin\Debug\net6.0\MicroservicosCore.deps.json
+C:\Temp\MicroServicos_2803_2022\Core\bin\Debug\net6.0\MicroservicosCore.dll
+C:\Temp\MicroServicos_2803_2022\Core\bin\Debug\net6.0\MicroservicosCore.pdb
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.csproj.AssemblyReference.cache
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.AssemblyInfoInputs.cache
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.AssemblyInfo.cs
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.csproj.CoreCompileInputs.cache
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.dll
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\refint\MicroservicosCore.dll
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\MicroservicosCore.pdb
+C:\Temp\MicroServicos_2803_2022\Core\obj\Debug\net6.0\ref\MicroservicosCore.dll

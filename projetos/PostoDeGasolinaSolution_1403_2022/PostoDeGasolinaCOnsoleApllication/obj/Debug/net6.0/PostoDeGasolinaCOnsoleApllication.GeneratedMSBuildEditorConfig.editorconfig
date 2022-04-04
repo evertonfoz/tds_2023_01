@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = PostoDeGasolinaCOnsoleApllication
-build_property.ProjectDir = C:\Users\Everton\Documents\GitHub\tds_2022_1\projetos\PostoDeGasolinaSolution\PostoDeGasolinaCOnsoleApllication\
+build_property.RootNamespace = PostoDeGasolinaConsoleApllication
+build_property.ProjectDir = C:\Users\Everton\Documents\GitHub\tds_2022_1\projetos\PostoDeGasolinaSolution_1403_2022\PostoDeGasolinaCOnsoleApllication\

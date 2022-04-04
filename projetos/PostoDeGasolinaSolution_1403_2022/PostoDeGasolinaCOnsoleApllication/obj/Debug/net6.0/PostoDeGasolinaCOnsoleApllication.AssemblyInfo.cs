@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PostoDeGasolinaCOnsoleApllication")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PostoDeGasolinaConsoleApllication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PostoDeGasolinaCOnsoleApllication")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PostoDeGasolinaCOnsoleApllication")]
+[assembly: System.Reflection.AssemblyProductAttribute("PostoDeGasolinaConsoleApllication")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PostoDeGasolinaConsoleApllication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

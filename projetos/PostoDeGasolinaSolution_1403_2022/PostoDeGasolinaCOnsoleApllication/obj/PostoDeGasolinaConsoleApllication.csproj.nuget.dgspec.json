@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj": {}
+    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj": {
+    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj",
+        "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj",
         "projectName": "PostoDeGasolinaConsoleApllication",
-        "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj",
+        "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaCOnsoleApllication\\PostoDeGasolinaConsoleApllication.csproj",
         "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaCOnsoleApllication\\obj\\",
+        "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaCOnsoleApllication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj": {
-                "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj"
+              "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj": {
+                "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj"
               }
             }
           }
@@ -58,18 +58,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj": {
+    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj",
         "projectName": "PostoDeGasolinaLibrary",
-        "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj",
+        "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaLibrary\\PostoDeGasolinaLibrary.csproj",
         "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution\\PostoDeGasolinaLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\projetos\\PostoDeGasolinaSolution_1403_2022\\PostoDeGasolinaLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

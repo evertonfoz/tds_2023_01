@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8T0horWYtxTS+fm83jdaofRCAGYvw5lY8ruq8x75xvY=",
+  "Source": "TDS_Docker_API_Server",
+  "BasePath": "_content/TDS_Docker_API_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

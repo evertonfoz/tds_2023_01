@@ -1,0 +1,15 @@
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\bin\Debug\net6.0\Aula01_Console.exe
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\bin\Debug\net6.0\Aula01_Console.deps.json
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\bin\Debug\net6.0\Aula01_Console.runtimeconfig.json
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\bin\Debug\net6.0\Aula01_Console.dll
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\bin\Debug\net6.0\Aula01_Console.pdb
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.csproj.AssemblyReference.cache
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.AssemblyInfoInputs.cache
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.AssemblyInfo.cs
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.csproj.CoreCompileInputs.cache
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.dll
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\refint\Aula01_Console.dll
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.pdb
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\Aula01_Console.genruntimeconfig.cache
+C:\Users\Everton\Dropbox\Dia-a-dia\2022\TDS\Aula01_Console\obj\Debug\net6.0\ref\Aula01_Console.dll

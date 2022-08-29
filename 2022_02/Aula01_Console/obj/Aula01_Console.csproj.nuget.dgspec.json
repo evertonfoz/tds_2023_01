@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Everton\\Dropbox\\Dia-a-dia\\2022\\TDS\\Aula01_Console\\Aula01_Console.csproj": {}
+    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\2022_02\\Aula01_Console\\Aula01_Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Everton\\Dropbox\\Dia-a-dia\\2022\\TDS\\Aula01_Console\\Aula01_Console.csproj": {
+    "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\2022_02\\Aula01_Console\\Aula01_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Everton\\Dropbox\\Dia-a-dia\\2022\\TDS\\Aula01_Console\\Aula01_Console.csproj",
+        "projectUniqueName": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\2022_02\\Aula01_Console\\Aula01_Console.csproj",
         "projectName": "Aula01_Console",
-        "projectPath": "C:\\Users\\Everton\\Dropbox\\Dia-a-dia\\2022\\TDS\\Aula01_Console\\Aula01_Console.csproj",
+        "projectPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\2022_02\\Aula01_Console\\Aula01_Console.csproj",
         "packagesPath": "C:\\Users\\Everton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Everton\\Dropbox\\Dia-a-dia\\2022\\TDS\\Aula01_Console\\obj\\",
+        "outputPath": "C:\\Users\\Everton\\Documents\\GitHub\\tds_2022_1\\2022_02\\Aula01_Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Everton\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

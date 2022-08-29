@@ -1,4 +1,5 @@
 using Aula02.Domain.Entities;
+using Microsoft.AspNetCore.HttpOverrides;
 using System.Net;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +9,19 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        policy =>
+        {
+            policy.WithOrigins("*");
+            policy.AllowAnyHeader();
+            policy.AllowAnyMethod();
+        });
+});
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -95,7 +108,15 @@ app.MapPut("/estados", (EstadoEntity estado) =>
 //})
 //.WithName("GetWeatherForecast");
 
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+    ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
+});
+
+app.UseCors();
+
 app.Run();
+//app.Run("http://10.55.0.4:4000");
 
 //internal record WeatherForecast(DateTime Date, int TemperatureC, string? Summary)
 //{

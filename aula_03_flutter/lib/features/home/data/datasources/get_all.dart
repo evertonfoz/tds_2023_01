@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 class GetAllEstadosDataSource {
   Future<List<EstadoModel>> getAll() async {
-    var url = Uri.http('localhost:5083', 'estados');
+    var url = Uri.http('localhost:5299', 'api/estados');
     var response = await http.get(url);
 
     // sleep(const Duration(seconds: 2));

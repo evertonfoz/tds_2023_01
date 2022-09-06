@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class DeleteEstadosDataSource {
   Future delete(int estadoID) async {
-    var url = Uri.http('localhost:5083', 'estados/$estadoID');
+    var url = Uri.http('192.168.100.47:5083', 'estados/$estadoID');
     var response = await http.delete(
       url,
       headers: <String, String>{

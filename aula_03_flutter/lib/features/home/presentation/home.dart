@@ -2,6 +2,7 @@ import 'package:aula_03_flutter/features/home/data/datasources/add..dart';
 import 'package:aula_03_flutter/features/home/data/datasources/delete.dart';
 import 'package:aula_03_flutter/features/home/data/datasources/get_all.dart';
 import 'package:aula_03_flutter/features/home/data/model/estado.dart';
+import 'package:aula_03_flutter/features/home/presentation/crud.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
@@ -93,12 +94,27 @@ class _HomePageState extends State<HomePage> {
                         ]),
                   ),
                   key: UniqueKey(),
-                  child: ListTile(
-                    leading: Text(result[index].estadoID != null
-                        ? result[index].estadoID.toString()
-                        : ''),
-                    title: Text(result[index].nome),
-                    trailing: Text(result[index].uf),
+                  child: InkWell(
+                    child: ListTile(
+                      onTap: () async {
+                        await Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                              builder: (context) => EstadoCRUDPage(
+                                    estadoModel: EstadoModel(
+                                        estadoID: result[index].estadoID,
+                                        uf: result[index].uf,
+                                        nome: result[index].nome),
+                                  )),
+                        );
+                        setState(() {});
+                      },
+                      leading: Text(result[index].estadoID != null
+                          ? result[index].estadoID.toString()
+                          : ''),
+                      title: Text(result[index].nome),
+                      trailing: Text(result[index].uf),
+                    ),
                   ),
                 );
               },
@@ -110,14 +126,20 @@ class _HomePageState extends State<HomePage> {
         mainAxisAlignment: MainAxisAlignment.end,
         children: [
           FloatingActionButton(
+            heroTag: 'Add',
             onPressed: () async {
-              await AddEstadosDataSource().add();
+              await Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => EstadoCRUDPage()),
+              );
+              setState(() {});
             },
             child: const Icon(
               Icons.add,
             ),
           ),
           FloatingActionButton(
+            heroTag: 'Refresh',
             backgroundColor: Colors.green,
             onPressed: () {
               setState(() {});

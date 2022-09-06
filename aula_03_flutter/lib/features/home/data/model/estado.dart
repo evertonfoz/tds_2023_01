@@ -16,4 +16,12 @@ class EstadoModel {
       nome: json['nome'],
     );
   }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'estadoID': estadoID,
+      'uf': uf,
+      'nome': nome,
+    };
+  }
 }

@@ -3,17 +3,17 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class AddEstadosDataSource {
-  Future add() async {
-    var url = Uri.http('localhost:5083', 'estados');
+  Future add({required String uf, required String nome}) async {
+    var url = Uri.http('localhost:5299', 'api/estados');
     var response = await http.post(
       url,
       headers: <String, String>{
         'Content-Type': 'application/json; charset=UTF-8',
       },
       body: jsonEncode(<String, String>{
-        "estadoID": '20',
-        "uf": "MG",
-        "nome": "Minas Gerais",
+        // "estadoID": '20',
+        "uf": uf,
+        "nome": nome,
       }),
       //   headers: {
       //     "Content-Type": "application/x-www-form-urlencoded",

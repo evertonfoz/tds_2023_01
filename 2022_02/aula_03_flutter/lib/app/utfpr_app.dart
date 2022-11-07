@@ -1,4 +1,5 @@
 import 'package:aula_03_flutter/features/home/presentation/home.dart';
+import 'package:aula_03_flutter/features/list/presentation/list.dart';
 import 'package:flutter/material.dart';
 
 class UTFPRApp extends StatelessWidget {
@@ -12,7 +13,7 @@ class UTFPRApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomePage(),
+      home: const ListPage(),
     );
   }
 }

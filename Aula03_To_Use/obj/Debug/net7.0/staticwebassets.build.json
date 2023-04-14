@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "CwkKT+TaJx6Wt+1R2bTzHm0K4INgcGiWzm+iLtefFy0=",
+  "Source": "Aula03_To_Use",
+  "BasePath": "_content/Aula03_To_Use",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aula03_To_Use/wwwroot",
+      "Source": "Aula03_To_Use",
+      "ContentRoot": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03_To_Use/wwwroot/",
+      "BasePath": "_content/Aula03_To_Use",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

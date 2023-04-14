@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .table-hover-custom tbody tr:hover {
+                background-color: #ece6ff;
+            }
+        </style>
+        <title>UTFPR - Gerenciador de Eventos Esportivos</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+        <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+
+    </head>
+    <body>
+        <header>
+            <partial name="./_MainMenuPartialPage.cshtml"/>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+        <p><hr/></p>
+        <footer class="bg-primary text-white py-3" >2023 - Everton Coimbra de Araújo</footer>
+
+        @RenderSection("scripts", required:false)
+    </body>
+</html>

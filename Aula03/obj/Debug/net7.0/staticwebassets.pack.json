@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/projectbundle/Aula03.bundle.scp.css",
+      "PackagePath": "staticwebassets/Aula03.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Aula03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Aula03.props",
+      "PackagePath": "build\\Aula03.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Aula03.props",
+      "PackagePath": "buildMultiTargeting\\Aula03.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Aula03.props",
+      "PackagePath": "buildTransitive\\Aula03.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

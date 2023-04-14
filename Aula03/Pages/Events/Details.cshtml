@@ -1,0 +1,13 @@
+@page "{id:int}"
+@model Aula03.Pages.Events.Details
+
+<div>
+    <h1>Detalhes do item</h1>
+
+    <p><strong>Nome:</strong> @Model.Event.Name</p>
+    <p><strong>Descrição:</strong> @Model.Event.Description</p>
+    <p><strong>Data de criação:</strong> @Model.Event.Date.ToShortDateString()</p>
+</div>
+
+
+<a asp-page="Index">Voltar para a lista</a>

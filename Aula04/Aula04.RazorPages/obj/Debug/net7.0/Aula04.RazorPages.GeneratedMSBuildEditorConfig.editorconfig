@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aula04.RazorPages
+build_property.RootNamespace = Aula04.RazorPages
+build_property.ProjectDir = /Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Events/Players/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL1BsYXllcnMvUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/Shared/_MainMenuPartialPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19NYWluTWVudVBhcnRpYWxQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula04/Aula04.RazorPages/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

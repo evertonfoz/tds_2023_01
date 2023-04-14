@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>UTFPR</title>
+        @* <link rel="stylesheet" href="~/css/style.css" asp-append-version="true"/> *@
+        <link rel="stylesheet" href="~/Aula03.styles.css" asp-append-version="true"/>
+    </head>
+    <body>
+        <header>
+            <partial name="./_MenuPartialPage.cshtml"/>
+        </header>
+        <main>
+            @RenderBody()
+        </main>
+        <p><hr/></p>
+        <footer>2023 - Everton Coimbra de Araújo</footer>
+
+        @RenderSection("scripts", required:false)
+    </body>
+</html>

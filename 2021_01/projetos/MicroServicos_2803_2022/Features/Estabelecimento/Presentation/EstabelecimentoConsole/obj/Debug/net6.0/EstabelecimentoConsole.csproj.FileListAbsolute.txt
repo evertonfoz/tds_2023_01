@@ -1,5 +1,0 @@
-C:\Temp\MicroServicos_2803_2022\Features\Estabelecimento\Presentation\EstabelecimentoConsole\obj\Debug\net6.0\EstabelecimentoConsole.csproj.AssemblyReference.cache
-C:\Temp\MicroServicos_2803_2022\Features\Estabelecimento\Presentation\EstabelecimentoConsole\obj\Debug\net6.0\EstabelecimentoConsole.GeneratedMSBuildEditorConfig.editorconfig
-C:\Temp\MicroServicos_2803_2022\Features\Estabelecimento\Presentation\EstabelecimentoConsole\obj\Debug\net6.0\EstabelecimentoConsole.AssemblyInfoInputs.cache
-C:\Temp\MicroServicos_2803_2022\Features\Estabelecimento\Presentation\EstabelecimentoConsole\obj\Debug\net6.0\EstabelecimentoConsole.AssemblyInfo.cs
-C:\Temp\MicroServicos_2803_2022\Features\Estabelecimento\Presentation\EstabelecimentoConsole\obj\Debug\net6.0\EstabelecimentoConsole.csproj.CoreCompileInputs.cache

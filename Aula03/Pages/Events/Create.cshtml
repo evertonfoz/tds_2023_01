@@ -1,0 +1,32 @@
+@page
+@model Aula03.Pages.Events.Create
+
+
+<h1>Criar novo Evento</h1>
+
+<hr/>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-dange"></div>
+            <div class="form-group">
+                <label asp-for="Event.Name"></label>
+                <input asp-for="Event.Name" class="form-control" />
+                <span asp-validation-for="Event.Name" class="text-dange"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Event.Description"></label>
+                <input asp-for="Event.Description" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <label asp-for="Event.Date"></label>
+                <input asp-for="Event.Date" type="date" class="form-control" />
+            </div>
+            <br/>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="Salvar"/>
+                <a asp-page="/Events/Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>

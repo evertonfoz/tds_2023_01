@@ -1,0 +1,45 @@
+@page "~/home/{skip?}/{take?}"
+@model Aula03_To_Use.Pages.Index
+@{
+    ViewData["Title"] = "Index";
+}
+
+@* <h1>@ViewData["Title"]</h1> *@
+
+<div>
+    @* <partial name="Shared/_MenuPartialPage"/> *@
+
+
+    @* @Html.Partial("Shared/_MenuPartialPage") *@
+    @* <table>
+        <tr>
+            <td><a href="/">Index</a></td>
+            <td><a href="/Eventos">Eventos</a></td>
+            <td><a href="/Esportes">Esportes</a></td>
+            <td><a href="/Locais">Locais</a></td>
+            <td><a href="/Participantes">Participantes</a></td>
+        </tr>
+    </table> *@
+
+    <table>
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Nome</td>
+                <td>Descrição</td>
+                <td>Data</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var eventModel in Model.Events)
+            {
+            <tr>
+                <td>@eventModel.Id</td>
+                <td>@eventModel.Name</td>
+                <td>@eventModel.Description</td>
+                <td>@eventModel.Date.ToShortDateString()</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

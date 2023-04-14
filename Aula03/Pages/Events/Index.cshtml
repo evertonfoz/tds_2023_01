@@ -1,0 +1,43 @@
+@page
+ @* "/Eventos/{skip?}/{take?}" *@
+@model Aula03.Pages.Events.Index
+@{
+    ViewData["Title"] = "Eventos";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<hr/>
+<td><a asp-page="/Events/Create">Criar novo evento</a></td>
+<hr/>
+<p></p>
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.EventsList[0].EventId)</td>
+                <td>@Html.DisplayNameFor(model => model.EventsList[0].Name)</td>
+                <td>@Html.DisplayNameFor(model => model.EventsList[0].Description)</td>
+                <td>@Html.DisplayNameFor(model => model.EventsList[0].Date)</td>
+            </tr>
+        </thead>
+        <tbody>
+             @foreach (var eventModel in Model.EventsList)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(model => eventModel.EventId)</td>
+                        <td>@Html.DisplayFor(model => eventModel.Name)</td>
+                        <td>@Html.DisplayFor(model => eventModel.Description)</td>
+                        <td>@Html.DisplayFor(model => eventModel.Date)</td>
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@eventModel.EventId">Alterar</a>
+                            <a asp-page="./Details" asp-route-id="@eventModel.EventId">Visualizar</a>
+                            <a asp-page="./Delete" asp-route-id="@eventModel.EventId">Remover</a>
+                        </td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+    
+</div>

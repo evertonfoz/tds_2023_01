@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "moBiTQ9ekYHm5gzTdA1SI6ftzWnNBHoWMN11T1CVaRU=",
+  "Source": "Aula03",
+  "BasePath": "_content/Aula03",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aula03/wwwroot",
+      "Source": "Aula03",
+      "ContentRoot": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/",
+      "BasePath": "_content/Aula03",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/bundle/Aula03.styles.css",
+      "SourceId": "Aula03",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/bundle/",
+      "BasePath": "_content/Aula03",
+      "RelativePath": "Aula03.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/bundle/Aula03.styles.css"
+    },
+    {
+      "Identity": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/projectbundle/Aula03.bundle.scp.css",
+      "SourceId": "Aula03",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Aula03",
+      "RelativePath": "Aula03.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/obj/Debug/net7.0/scopedcss/projectbundle/Aula03.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/css/style.css",
+      "SourceId": "Aula03",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/",
+      "BasePath": "_content/Aula03",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/js/site.js",
+      "SourceId": "Aula03",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/evertoncoimbradearaujo/Documents/GitHub/tds_without_git/Aula03/wwwroot/",
+      "BasePath": "_content/Aula03",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ]
+}
